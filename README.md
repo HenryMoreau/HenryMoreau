@@ -1,3 +1,4 @@
+[Chinese Ver](https://github.com/HenryMoreau/HenryMoreau/blob/main/README_SC.md)
 ### Hi there 👋
 
 **My Name is Henry Moreau!** You can call me **Henry**
