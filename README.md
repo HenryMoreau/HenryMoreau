@@ -16,7 +16,7 @@
 
 ### Links 🔗
 
-[Here](http://blog.henrywhu.cn) is my **Blog**, but it only has Chinese Characters.
+[Here](http://blog.henrywhu.cn) is my **Blog**(Simplified Chinese only).
 
 ### Contacts 🎯
 
