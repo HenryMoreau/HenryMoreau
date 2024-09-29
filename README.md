@@ -16,7 +16,7 @@
 
 ### Links 🔗
 
-[Here](https://en.henrywhu.cn) is my **Blog**(Simplified Chinese only).
+[Here](https://en.henrywhu.cn) is my **Blog**.
 
 [Chinese Blog](https://blog.henrywhu.cn)
 
